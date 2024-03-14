@@ -1,2 +1,6 @@
 footer {
+  position: sticky;
+  height: 10px;
+  top: calc(100vh - 10px);
 }
+/* I will add styling tomorrow */
