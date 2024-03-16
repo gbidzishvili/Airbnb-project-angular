@@ -1,6 +1,8 @@
-footer {
-  position: sticky;
-  height: 10px;
-  top: calc(100vh - 10px);
+:host {
+    margin-top: auto;
 }
-/* I will add styling tomorrow */
+
+footer {
+    background-color: lightgray;
+    padding: 10rem;
+}
